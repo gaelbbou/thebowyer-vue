@@ -1,0 +1,2056 @@
+{
+	"website": {
+		"imgHeadshot": {
+			"path1": "./src/assets/images/img-home-head.jpg",
+			"path2": "./src/assets/images/img-home-head@2.jpg 2x"
+		},
+		"imgGrey": "./src/assets/images/img-home-bggrey.png",
+		"imgEarth": "./src/assets/images/img-home-hero-earth.jpg",
+		"pdfResumeLight": "./src/assets/files/gaelbbou-light-resume.pdf",
+		"pdfResumeDark": "./src/assets/files/gaelbbou-dark-resume.pdf",
+		"pdfPortfolio": "./src/assets/files/gaelbbou-portfolio.pdf",
+		"title": "Web Design Portfolio",
+		"about": {
+			"title": {
+				"eng": "About Me",
+				"fra": "À propos de moi",
+				"esp": "Sobre mí",
+				"chi": "关于我"
+			},
+			"description1": {
+				"eng": "Digital Product Designer specialized in web & mobile apps, style guides and brand identity.",
+				"fra": "Designer Produit Numerique specialisé dans les applications web et mobiles, les style guides et l'identité de marque.",
+				"esp": "Diseñador Producto Digital especializado en diseño de aplicaciones web y móviles, guías de estilo e identidad de marca.",
+				"chi": "专门从事网络和移动应用程序，样式指南和品牌标识的数字产品设计师。"
+			},
+			"description2": {
+				"eng": "Experience in digital marketing, front-end development & management.",
+				"fra": "Experience en marketing digital, développement front-end et management.",
+				"esp": "Experiencia en marketing digital, desarrollo front-end y manejo.",
+				"chi": "具有数字营销，前端开发和管理方面的经验。"
+			},
+			"description3": {
+				"eng": "Blockchain enthusiast, open-source believer, decentralization pusher.",
+				"fra": "Blockchain enthusiast, open-source believer, decentralization pusher.",
+				"esp": "Blockchain enthusiast, open-source believer, decentralization pusher.",
+				"chi": "Blockchain enthusiast, open-source believer, decentralization pusher."
+			}
+		},
+		"experiences": [
+			{
+				"classSide": "timeline-card--left",
+				"title": {
+					"eng": "Senior Product Designer & Front-End Developer",
+					"fra": "Designer Produit Senior et Développeur Front-End",
+					"esp": "Diseñador Producto Senior y Desarrollador Front-End",
+					"chi": "高级产品设计师和前端开发人员"
+				},
+				"date": "March 2016 to Present - New York, USA",
+				"company": "Freelancer",
+				"url": "",
+				"description": {
+					"eng": " for various companies.",
+					"fra": " pour diverses entreprises.",
+					"esp": " para varias empresas.",
+					"chi": " 对于各种公司。"
+				},
+				"tasks": {
+					"eng": [
+						"• Lead digital product designer for different responsive websites and mobile applications.",
+						"• Project manager between product, marketing and tech departments."
+					],
+					"fra": [
+						"• Lead designer produit pour différents sites web et applications mobiles.",
+						"• Chef de projet entre les départements produit, marketing et tech."
+					],
+					"esp": [
+						"• Lead diseñador producto para diferentes websites y aplicaciones móviles",
+						"• Gestión de proyectos entre departamentos de producto digital, marketing y tecnología."
+					],
+					"chi": [
+						"• 负责不同响应式网站和移动应用程序的首席数字产品设计师。",
+						"• 产品，市场和技术部门之间的项目经理。"
+					]
+				},
+				"tags": [
+					"iOS Design",
+					"Website Design",
+					"Style Guide",
+					"Front-End",
+					"Motion Design",
+					"Android Design",
+					"Email Design",
+					"Landing Page",
+					"Project Management"
+				]
+			},
+			{
+				"classSide": "timeline-card--right",
+				"title": {
+					"eng": "Senior Product Designer",
+					"fra": "Designer Produit Senior",
+					"esp": "Diseñador Producto Senior",
+					"chi": "高级产品设计师"
+				},
+				"date": "May 2014 to March 2016 - New York, USA",
+				"company": "Delivery.com,",
+				"url": "https://www.delivery.com",
+				"description": {
+					"eng": " on-demand local marketplace for restaurants, liquor stores and cleaners.",
+					"fra": " marché local à la demande pour les restaurants, les magasins d'alcools et les nettoyeurs.",
+					"esp": " plataforma digital que permite hacer pedidos en restaurantes, licorerías y tintorerías.",
+					"chi": " 餐厅，酒类商店和清洁工的按需本地市场。"
+				},
+				"tasks": {
+					"eng": [
+						"• Lead product designer for the iOS native app.",
+						"• iOS app’s ranking highly improved on the App Store.",
+						"• Created a style guide used by designers and developers within the company."
+					],
+					"fra": [
+						"• Lead designer produit pour l'application native iOS.",
+						"• Classement de l'application iOS considérablement amélioré dans l'App Store.",
+						"• Création d'un style guide utilisé par les designers et développeurs au sein de l'entreprise."
+					],
+					"esp": [
+						"• Diseñador producto principal de la aplicación nativa de iOS de la empresa.",
+						"• Encargado de optimizar la aplicación iOS que dió como resultado un mejoramiento notable en el ranking de App Store.",
+						"• Creación de guía de estilo utilizada por diseñadores y desarrolladores dentro de la empresa."
+					],
+					"chi": [
+						"• iOS原生应用程序的首席产品设计师。",
+						"• iOS应用程序在App Store上的排名大大提高。",
+						"• 创建了供公司内的设计师和开发人员使用的样式指南。"
+					]
+				},
+				"tags": [
+					"iOS Design",
+					"Website Design",
+					"Style Guide",
+					"Motion Design",
+					"Video Editing"
+				]
+			},
+			{
+				"classSide": "timeline-card--left",
+				"title": {
+					"eng": "Art Director",
+					"fra": "Directeur Artistique",
+					"esp": "Director de Arte",
+					"chi": "艺术总监"
+				},
+				"date": "June 2013 to May 2014 - New York, USA",
+				"company": "eShave,",
+				"url": "https://eshave.com",
+				"description": {
+					"eng": " on-and-offline shaving company.",
+					"fra": " entreprise de rasage en ligne et hors ligne.",
+					"esp": " empresa de afeitado en línea y fuera de línea.",
+					"chi": " 在线和离线剃须公司。"
+				},
+				"tasks": {
+					"eng": [
+						"• Responsible of the global communication (ecommerce & retail stores).",
+						"• Managed a team of designers, developers and marketers."
+					],
+					"fra": [
+						"• Responsable de la communication globale (ecommerce et magasins).",
+						"• Responsable d'une équipe de designers, développeurs et spécialistes du marketing."
+					],
+					"esp": [
+						"• Responsable de la comunicación global de la empresa (retail online y tiendas minoristas).",
+						"• Responsable de dirigir a un equipo de diseñadores, desarrolladores y comercializadores."
+					],
+					"chi": [
+						"• 负责全球通讯（电子商务和零售商店）。",
+						"• 管理了一个由设计师，开发人员和营销人员组成的团队。"
+					]
+				},
+				"tags": [
+					"Website Design",
+					"Email Design",
+					"Banner Design",
+					"Web Campaign",
+					"SEO/SEM",
+					"Data Analytics",
+					"Front-End",
+					"Print",
+					"Project Managment"
+				]
+			},
+			{
+				"classSide": "timeline-card--right",
+				"title": {
+					"eng": "Digital Marketing Designer",
+					"fra": "Digital Marketing Designer",
+					"esp": "Diseñador de Marketing Digital",
+					"chi": "数字营销设计师"
+				},
+				"date": "March 2011 to May 2013 - New York, USA",
+				"company": "Totsy.com,",
+				"url": "",
+				"description": {
+					"eng": " flash sales for moms, babies and kids.",
+					"fra": " ventes privées pour mamans, bébés et enfants.",
+					"esp": " ventas privadas de productos para mamás, niños y bebés.",
+					"chi": " 妈妈，婴儿和孩子的私人销售。"
+				},
+				"tasks": {
+					"eng": [
+						"• Responsible of the investor presentations (Series B)."
+					],
+					"fra": [
+						"• Responsable des présentations investisseurs (série B)."
+					],
+					"esp": [
+						"• Responsable de las presentaciones para inversores (Serie B)."
+					],
+					"chi": [
+						"• 负责投资者介绍（系列B）。"
+					]
+				},
+				"tags": [
+					"Email Design",
+					"Banner Design",
+					"Photo Retouching",
+					"Website Design"
+				]
+			},
+			{
+				"classSide": "timeline-card--left",
+				"title": {
+					"eng": "Junior Art Director",
+					"fra": "Directeur Artistique Junior",
+					"esp": "Director de Arte Junior",
+					"chi": "助理艺术总监"
+				},
+				"date": "2006 to 2009 - Paris, France & Dakar, Senegal",
+				"company": "Advertising agencies",
+				"url": "",
+				"description": {
+					"eng": " (DDB, TBWA, McCann).",
+					"fra": " (DDB, TBWA, McCann).",
+					"esp": " (DDB, TBWA, McCann).",
+					"chi": " (DDB, TBWA, McCann)."
+				},
+				"tasks": [],
+				"tags": []
+			}
+		]
+	},
+	"projects": [
+		{
+			"name": "coaching360",
+			"title": "Coaching 360",
+			"url": "",
+			"description": "A.I. virtual coach for crossfit aficionados.",
+			"tags": [
+				"iOS Design",
+				"Style Guide",
+				"Website Design"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-coac.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-coac@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-coac.png",
+				"path2": "./src/assets/images/img-project-mock-coac@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-coac@2.jpg",
+			"special": "./src/assets/images/img-project-special-coac@2.jpg",
+			"aTitle": "Logo & Concept",
+			"aSubtitle": "",
+			"aWorks": [
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-coac01.jpg",
+					"path2": "./src/assets/images/img-project-work-coac01@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac02.jpg",
+					"path2": "./src/assets/images/img-project-work-coac02@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac03.jpg",
+					"path2": "./src/assets/images/img-project-work-coac03@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac04.jpg",
+					"path2": "./src/assets/images/img-project-work-coac04@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac05.jpg",
+					"path2": "./src/assets/images/img-project-work-coac05@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				}
+			],
+			"bTitle": "iOS App",
+			"bSubtitle": "",
+			"bWorks": [
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac06@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac07@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac08@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac09@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac10@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac11@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac12@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac13@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"cTitle": "Landing Page, Blog Page & Style Guide",
+			"cSubtitle": "",
+			"cWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac14.jpg",
+					"path2": "./src/assets/images/img-project-work-coac14@2.jpg 2x",
+					"width": "1200",
+					"height": "10578"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac15.jpg",
+					"path2": "./src/assets/images/img-project-work-coac15@2.jpg 2x",
+					"width": "1200",
+					"height": "4103"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac16.jpg",
+					"path2": "./src/assets/images/img-project-work-coac16@2.jpg 2x",
+					"width": "1200",
+					"height": "10406"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac17.jpg",
+					"path2": "./src/assets/images/img-project-work-coac17@2.jpg 2x",
+					"width": "1200",
+					"height": "6878"
+				}
+			]
+		},
+		{
+			"name": "checkday",
+			"title": "CheckDay",
+			"url": "",
+			"description": "Web application for collaboration and meeting scheduling.",
+			"tags": [
+				"Web App Design",
+				"Style Guide"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-chec.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-chec@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-chec.png",
+				"path2": "./src/assets/images/img-project-mock-chec@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-chec@2.jpg",
+			"special": "./src/assets/images/img-project-special-chec@2.jpg",
+			"aTitle": "Web App",
+			"aSubtitle": "",
+			"aWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-chec01.jpg",
+					"path2": "./src/assets/images/img-project-work-chec01@2.jpg 2x",
+					"width": "1460",
+					"height": "1056"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-chec02.jpg",
+					"path2": "./src/assets/images/img-project-work-chec02@2.jpg 2x",
+					"width": "768",
+					"height": "1024"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-chec03.jpg",
+					"path2": "./src/assets/images/img-project-work-chec03@2.jpg 2x",
+					"width": "768",
+					"height": "1024"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-chec04@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-chec05@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-chec06@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"bTitle": "Style Guide",
+			"bSubtitle": "",
+			"bWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-chec07.jpg",
+					"path2": "./src/assets/images/img-project-work-chec07@2.jpg 2x",
+					"width": "1200",
+					"height": "3733"
+				}
+			],
+			"cTitle": "",
+			"cSubtitle": "",
+			"cWorks": [],
+			"dTitle": "",
+			"dSubtitle": "",
+			"dWorks": []
+		},
+		{
+			"name": "toctocprof",
+			"title": "Toc Toc Prof",
+			"url": "",
+			"description": "Crowd-sourced homework help via live chat.",
+			"tags": [
+				"iOS Design",
+				"Landing Page",
+				"User Flow",
+				"Style Guide"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-toct.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-toct@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-toct.png",
+				"path2": "./src/assets/images/img-project-mock-toct@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-toct@2.jpg",
+			"special": "./src/assets/images/img-project-special-toct@2.jpg",
+			"aTitle": "Logo & Concept",
+			"aSubtitle": "",
+			"aWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-toct01.jpg",
+					"path2": "./src/assets/images/img-project-work-toct01@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-toct02.jpg",
+					"path2": "./src/assets/images/img-project-work-toct02@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-toct03.jpg",
+					"path2": "./src/assets/images/img-project-work-toct03@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				}
+			],
+			"bTitle": "iOS & Android Apps",
+			"bSubtitle": "",
+			"bWorks": [
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct04@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct05@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct06@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct07@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct08@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct09@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct10@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct11@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct12@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct13@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct14@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct15@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct16@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct17@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct18@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct19@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct20@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"cTitle": "Landing Page & Style Guide",
+			"cSubtitle": "",
+			"cWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-toct21.jpg",
+					"path2": "./src/assets/images/img-project-work-toct21@2.jpg 2x",
+					"width": "1200",
+					"height": "1265"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-toct22.jpg",
+					"path2": "./src/assets/images/img-project-work-toct22@2.jpg 2x",
+					"width": "800",
+					"height": "622"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-toct23@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-toct24.jpg",
+					"path2": "./src/assets/images/img-project-work-toct24@2.jpg 2x",
+					"width": "1200",
+					"height": "6907"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-toct25.jpg",
+					"path2": "./src/assets/images/img-project-work-toct25@2.jpg 2x",
+					"width": "1300",
+					"height": "7503"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-toct26.jpg",
+					"path2": "./src/assets/images/img-project-work-toct26@2.jpg 2x",
+					"width": "800",
+					"height": "5902"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-toct27.jpg",
+					"path2": "./src/assets/images/img-project-work-toct27@2.jpg 2x",
+					"width": "800",
+					"height": "9738"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-toct28.jpg",
+					"path2": "./src/assets/images/img-project-work-toct28@2.jpg 2x",
+					"width": "800",
+					"height": "2381"
+				}
+			]
+		},
+		{
+			"name": "delivery",
+			"title": "Delivery.com",
+			"url": "https://www.delivery.com",
+			"description": "On-demand ordering from local restaurants & liquor stores.",
+			"tags": [
+				"iOS Design",
+				"Website Design",
+				"Style Guide"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-deli.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-deli@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-deli.png",
+				"path2": "./src/assets/images/img-project-mock-deli@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-deli@2.jpg",
+			"special": "./src/assets/images/img-project-special-deli@2.jpg",
+			"aTitle": "iOS App",
+			"aSubtitle": "Lead digital product designer for the iOS native app. iOS app’s ranking highly improved on the App Store. Business Insider publications.",
+			"aWorks": [
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli01@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli02@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli03@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli04.jpg",
+					"path2": "./src/assets/images/img-project-work-deli04@2.jpg",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli05.jpg",
+					"path2": "./src/assets/images/img-project-work-deli05@2.jpg",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli06.jpg",
+					"path2": "./src/assets/images/img-project-work-deli06@2.jpg",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli07@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli08@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli09@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli10@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli11@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli12@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli13@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli14@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli15@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"bTitle": "Web App",
+			"bSubtitle": "",
+			"bWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli19.jpg",
+					"path2": "./src/assets/images/img-project-work-deli19@2.jpg 2x",
+					"width": "1200",
+					"height": "1759"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli20.jpg",
+					"path2": "./src/assets/images/img-project-work-deli20@2.jpg 2x",
+					"width": "1200",
+					"height": "1922"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli21.jpg",
+					"path2": "./src/assets/images/img-project-work-deli21@2.jpg 2x",
+					"width": "1200",
+					"height": "1262"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-deli23.jpg",
+					"path2": "./src/assets/images/img-project-work-deli23@2.jpg 2x",
+					"width": "768",
+					"height": "1024"
+				}
+			],
+			"cTitle": "Ratings, Press Review & Style Guide",
+			"cSubtitle": "",
+			"cWorks": [
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli16@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli17@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli18@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli25.jpg",
+					"path2": "./src/assets/images/img-project-work-deli25@2.jpg 2x",
+					"width": "1200",
+					"height": "2602"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli26.jpg",
+					"path2": "./src/assets/images/img-project-work-deli26@2.jpg 2x",
+					"width": "1200",
+					"height": "11632"
+				}
+			]
+		},
+		{
+			"name": "dinewine",
+			"title": "Dine & Wine",
+			"url": "",
+			"description": "Ordering & pairing suggestions for food and wine delivery.",
+			"tags": [
+				"iOS Design",
+				"Style Guide"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-dine.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-dine@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-dine.png",
+				"path2": "./src/assets/images/img-project-mock-dine@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-dine@2.jpg",
+			"special": "./src/assets/images/img-project-special-dine@2.jpg",
+			"aTitle": "iOS App",
+			"aSubtitle": "",
+			"aWorks": [
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine01@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine02@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine03@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine04@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine05@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine06@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine07@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine08@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine09@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"bTitle": "White Label",
+			"bSubtitle": "The template can easily be adapted and customized for other brands.",
+			"bWorks": [
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine10@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine11@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dine12@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"cTitle": "Style Guide",
+			"cSubtitle": "",
+			"cWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-dine13.jpg",
+					"path2": "./src/assets/images/img-project-work-dine13@2.jpg 2x",
+					"width": "1200",
+					"height": "3250"
+				}
+			]
+		},
+		{
+			"name": "websitedesign",
+			"title": "Website Design",
+			"url": "",
+			"description": "Websites for various clients.",
+			"tags": [
+				"Website Design",
+				"Front End"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-anne.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-anne@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-anne.png",
+				"path2": "./src/assets/images/img-project-mock-anne@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-anne@2.jpg",
+			"special": "./src/assets/images/img-project-special-anne@2.jpg",
+			"aTitle": "Anne’s Gallery",
+			"aSubtitle": "Online art gallery",
+			"aWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-anne01.jpg",
+					"path2": "./src/assets/images/img-project-work-anne01@2.jpg 2x",
+					"width": "1200",
+					"height": "2204"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-anne02.jpg",
+					"path2": "./src/assets/images/img-project-work-anne02@2.jpg 2x",
+					"width": "1200",
+					"height": "961"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-anne03@2.png",
+					"path2": "",
+					"width": "375",
+					"height": "812"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-anne04@2.png",
+					"path2": "",
+					"width": "375",
+					"height": "812"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-anne05.jpg",
+					"path2": "./src/assets/images/img-project-work-anne05@2.jpg 2x",
+					"width": "1440",
+					"height": "1948"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-anne06.jpg",
+					"path2": "./src/assets/images/img-project-work-anne06@2.jpg 2x",
+					"width": "1440",
+					"height": "2551"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-anne07.jpg",
+					"path2": "./src/assets/images/img-project-work-anne07@2.jpg 2x",
+					"width": "1440",
+					"height": "1415"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-anne08@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-anne09@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-anne10@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"bTitle": "2016 Portfolio",
+			"bSubtitle": "My previous portfolio",
+			"bWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-po1601.jpg",
+					"path2": "./src/assets/images/img-project-work-po1601@2.jpg 2x",
+					"width": "1200",
+					"height": "7000"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-po1602.jpg",
+					"path2": "./src/assets/images/img-project-work-po1602@2.jpg 2x",
+					"width": "1200",
+					"height": "3457"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-po1603.jpg",
+					"path2": "./src/assets/images/img-project-work-po1603@2.jpg 2x",
+					"width": "1200",
+					"height": "932"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-po1604.jpg",
+					"path2": "./src/assets/images/img-project-work-po1604@2.jpg 2x",
+					"width": "1200",
+					"height": "932"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1605@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1606@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1607@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1608@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1609@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-po1610.jpg",
+					"path2": "./src/assets/images/img-project-work-po1610@2.jpg 2x",
+					"width": "1200",
+					"height": "800"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1611.jpg",
+					"path2": "./src/assets/images/img-project-work-po1611@2.jpg 2x",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1612.jpg",
+					"path2": "./src/assets/images/img-project-work-po1612@2.jpg 2x",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-po1613.jpg",
+					"path2": "./src/assets/images/img-project-work-po1613@2.jpg 2x",
+					"width": "750",
+					"height": "1334"
+				}
+			],
+			"cTitle": "Sion Law",
+			"cSubtitle": "Law firm website.",
+			"cWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-sion01.jpg",
+					"path2": "./src/assets/images/img-project-work-sion01@2.jpg 2x",
+					"width": "1200",
+					"height": "5688"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-sion02@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-sion03@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-sion04@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-sion05.jpg",
+					"path2": "./src/assets/images/img-project-work-sion05@2.jpg 2x",
+					"width": "1200",
+					"height": "7015"
+				}
+			],
+			"dTitle": "Day One",
+			"dSubtitle": "CMS for a consulting firm dedicated to legal and compliance.",
+			"dWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-dayo01.jpg",
+					"path2": "./src/assets/images/img-project-work-dayo01@2.jpg 2x",
+					"width": "970",
+					"height": "832"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-dayo02.jpg",
+					"path2": "./src/assets/images/img-project-work-dayo02@2.jpg 2x",
+					"width": "970",
+					"height": "902"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-dayo03.jpg",
+					"path2": "./src/assets/images/img-project-work-dayo03@2.jpg 2x",
+					"width": "970",
+					"height": "1160"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-dayo04.jpg",
+					"path2": "./src/assets/images/img-project-work-dayo04@2.jpg 2x",
+					"width": "970",
+					"height": "856"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-dayo05.jpg",
+					"path2": "./src/assets/images/img-project-work-dayo05@2.jpg 2x",
+					"width": "970",
+					"height": "832"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dayo06@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dayo07@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-dayo08@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
+			]
+		},
+		{
+			"name": "marketing",
+			"title": "Marketing",
+			"url": "",
+			"description": "Digital marketing, branding & advertising.",
+			"tags": [
+				"Email Design",
+				"Landing Page",
+				"Logo Design",
+				"Brand Identity",
+				"Billboard Ad"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-mark.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-mark@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-mark.png",
+				"path2": "./src/assets/images/img-project-mock-mark@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-mark@2.jpg",
+			"special": "",
+			"aTitle": "Digital Marketing",
+			"aSubtitle": "Email design & Landing pages",
+			"aWorks": [
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-cast01.png",
+					"path2": "./src/assets/images/img-project-work-mark-cast01@2.png x2",
+					"width": "800",
+					"height": "812"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-cast02.jpg",
+					"path2": "",
+					"width": "1200",
+					"height": "1618"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-cast03.jpg",
+					"path2": "",
+					"width": "1200",
+					"height": "942"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-cast04.jpg",
+					"path2": "",
+					"width": "800",
+					"height": "1172"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-cast05.jpg",
+					"path2": "",
+					"width": "800",
+					"height": "1668"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-esha01.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-esha01@2.jpg 2x",
+					"width": "800",
+					"height": "1075"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-esha02.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-esha02@2.jpg 2x",
+					"width": "800",
+					"height": "1041"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-esha03.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-esha03@2.jpg 2x",
+					"width": "800",
+					"height": "1165"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-esha04.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-esha04@2.jpg 2x",
+					"width": "800",
+					"height": "1803"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-esha07.gif",
+					"path2": "",
+					"width": "800",
+					"height": "1471"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-tots01.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-tots01@2.jpg 2x",
+					"width": "800",
+					"height": "723"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-tots02.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-tots02@2.jpg 2x",
+					"width": "800",
+					"height": "723"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-tots04.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-tots04@2.jpg 2x",
+					"width": "800",
+					"height": "986"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-tots05.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-tots05@2.jpg 2x",
+					"width": "800",
+					"height": "725"
+				}
+			],
+			"bTitle": "Branding",
+			"bSubtitle": "Logo design & brand identity",
+			"bWorks": [
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-jamm01.png",
+					"path2": "./src/assets/images/img-project-work-mark-jamm01@2.png 2x",
+					"width": "800",
+					"height": "830"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-jamm02.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-jamm02@2.jpg 2x",
+					"width": "1200",
+					"height": "848"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-jamm03.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-jamm03@2.jpg 2x",
+					"width": "1200",
+					"height": "848"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-jamm04.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-jamm04@2.jpg 2x",
+					"width": "1200",
+					"height": "848"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-jamm05.png",
+					"path2": "./src/assets/images/img-project-work-mark-jamm05@2.png 2x",
+					"width": "800",
+					"height": "400"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-jamm06.png",
+					"path2": "./src/assets/images/img-project-work-mark-jamm06@2.png 2x",
+					"width": "800",
+					"height": "377"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-hola01.png",
+					"path2": "./src/assets/images/img-project-work-mark-hola01@2.png 2x",
+					"width": "800",
+					"height": "459"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-hola02.png",
+					"path2": "./src/assets/images/img-project-work-mark-hola02@2.png 2x",
+					"width": "600",
+					"height": "300"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-mark-mege01.png",
+					"path2": "./src/assets/images/img-project-work-mark-mege01@2.png 2x",
+					"width": "800",
+					"height": "605"
+				}
+			],
+			"cTitle": "Advertising",
+			"cSubtitle": "Billboard ads",
+			"cWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve01.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve01@2.jpg 2x",
+					"width": "1200",
+					"height": "848"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve02.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve02@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve03.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve03@2.jpg 2x",
+					"width": "1200",
+					"height": "848"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve04.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve04@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve05.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve05@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve06.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve06@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve07.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve07@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-mark-adve08.jpg",
+					"path2": "./src/assets/images/img-project-work-mark-adve08@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				}
+			]
+		},
+		{
+			"name": "photography",
+			"title": "Photography",
+			"url": "",
+			"description": "Some of my personal photos.",
+			"tags": [
+				"Photography"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-phot.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-phot@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-phot.png",
+				"path2": "./src/assets/images/img-project-mock-phot@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-phot@2.jpg",
+			"special": "",
+			"aTitle": "Photos taken during my travels around the world",
+			"aSubtitle": "",
+			"aWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot01.jpg",
+					"path2": "./src/assets/images/img-project-work-phot01@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot02.jpg",
+					"path2": "./src/assets/images/img-project-work-phot02@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot03.jpg",
+					"path2": "./src/assets/images/img-project-work-phot03@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot04.jpg",
+					"path2": "./src/assets/images/img-project-work-phot04@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot05.jpg",
+					"path2": "./src/assets/images/img-project-work-phot05@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot06.jpg",
+					"path2": "./src/assets/images/img-project-work-phot06@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot07.jpg",
+					"path2": "./src/assets/images/img-project-work-phot07@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot08.jpg",
+					"path2": "./src/assets/images/img-project-work-phot08@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot09.jpg",
+					"path2": "./src/assets/images/img-project-work-phot09@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot10.jpg",
+					"path2": "./src/assets/images/img-project-work-phot10@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				}
+			],
+			"bTitle": " ",
+			"bSubtitle": "",
+			"bWorks": [
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot11.jpg",
+					"path2": "./src/assets/images/img-project-work-phot11@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot12.jpg",
+					"path2": "./src/assets/images/img-project-work-phot12@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot13.jpg",
+					"path2": "./src/assets/images/img-project-work-phot13@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot14.jpg",
+					"path2": "./src/assets/images/img-project-work-phot14@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot15.jpg",
+					"path2": "./src/assets/images/img-project-work-phot15@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot16.jpg",
+					"path2": "./src/assets/images/img-project-work-phot16@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot17.jpg",
+					"path2": "./src/assets/images/img-project-work-phot17@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot18.jpg",
+					"path2": "./src/assets/images/img-project-work-phot18@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot19.jpg",
+					"path2": "./src/assets/images/img-project-work-phot19@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot20.jpg",
+					"path2": "./src/assets/images/img-project-work-phot20@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				}
+			],
+			"cTitle": " ",
+			"cSubtitle": "",
+			"cWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot21.jpg",
+					"path2": "./src/assets/images/img-project-work-phot21@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot22.jpg",
+					"path2": "./src/assets/images/img-project-work-phot22@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot23.jpg",
+					"path2": "./src/assets/images/img-project-work-phot23@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot24.jpg",
+					"path2": "./src/assets/images/img-project-work-phot24@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot25.jpg",
+					"path2": "./src/assets/images/img-project-work-phot25@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot26.jpg",
+					"path2": "./src/assets/images/img-project-work-phot26@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot27.jpg",
+					"path2": "./src/assets/images/img-project-work-phot27@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot28.jpg",
+					"path2": "./src/assets/images/img-project-work-phot28@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot29.jpg",
+					"path2": "./src/assets/images/img-project-work-phot29@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot30.jpg",
+					"path2": "./src/assets/images/img-project-work-phot30@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot31.jpg",
+					"path2": "./src/assets/images/img-project-work-phot31@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-phot32.jpg",
+					"path2": "./src/assets/images/img-project-work-phot32@2.jpg 2x",
+					"width": "1200",
+					"height": "900"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-phot33.jpg",
+					"path2": "./src/assets/images/img-project-work-phot33@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				}
+			]
+		}
+	],
+	"styleguide": {
+		"project": {
+			"name": "styleguide",
+			"title": "Style Guide",
+			"url": "",
+			"description": "Atomic Design, Vertical Rythme and Color Theory.",
+			"tags": [
+				"Style Guide",
+				"Website Design"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-styl.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-styl@2.jpg 2x"
+			}
+		},
+		"baselines": [
+			{
+				"variable": "$b4",
+				"comment": 4
+			},
+			{
+				"variable": "$b8",
+				"comment": 8
+			},
+			{
+				"variable": "$b16",
+				"comment": 16
+			},
+			{
+				"variable": "$b24",
+				"comment": 24
+			},
+			{
+				"variable": "$b32",
+				"comment": 32
+			},
+			{
+				"variable": "$b48",
+				"comment": 48
+			},
+			{
+				"variable": "$b56",
+				"comment": 56
+			},
+			{
+				"variable": "$b64",
+				"comment": 64
+			},
+			{
+				"variable": "$b80",
+				"comment": 80
+			},
+			{
+				"variable": "$b96",
+				"comment": 96
+			},
+			{
+				"variable": "$b128",
+				"comment": 128
+			},
+			{
+				"variable": "$b192",
+				"comment": 192
+			}
+		],
+		"colorPrimaries": [
+			{
+				"variable": "$color-primary",
+				"hexLight": "#9966FF",
+				"hexDark": "#FF8066",
+				"hsbLight": "HSB(260,60,100)",
+				"hsbDark": "HSB(10,60,100)",
+				"role": "primary action, link"
+			},
+			{
+				"variable": "$color-primary--hover",
+				"hexLight": "#8257D9",
+				"hexDark": "#D96C57",
+				"hsbLight": "HSB(260,60,85)",
+				"hsbDark": "HSB(10,60,85)",
+				"role": "primary hover"
+			}
+		],
+		"colorPrimaryGradients": {
+			"variable": "$color-primary--gradient",
+			"hexLight": "135deg,#6699FF,#B366FF",
+			"hexDark": "135deg,#FFE666,#FF6666",
+			"hsbLight": "HSB(220,60,100) to HSB(270,60,100)",
+			"hsbDark": "HSB(50,60,100) to HSB(360,60,100)",
+			"role": "primary gradient"
+		},
+		"colorPrimaryShades": [
+			{
+				"variable": "$color-primary--shade1",
+				"hexLight": "#6699FF",
+				"hexDark": "#FFE666",
+				"hsbLight": "HSB(220,60,100)",
+				"hsbDark": "HSB(50,60,100)",
+				"role": "primary shade 1"
+			},
+			{
+				"variable": "$color-primary--shade2",
+				"hexLight": "#6680FF",
+				"hexDark": "#FFCC66",
+				"hsbLight": "HSB(230,60,100)",
+				"hsbDark": "HSB(40,60,100)",
+				"role": "primary shade 2"
+			},
+			{
+				"variable": "$color-primary--shade3",
+				"hexLight": "#6666FF",
+				"hexDark": "#FFB366",
+				"hsbLight": "HSB(240,60,100)",
+				"hsbDark": "HSB(30,60,100)",
+				"role": "primary shade 3"
+			},
+			{
+				"variable": "$color-primary--shade4",
+				"hexLight": "#7F66FF",
+				"hexDark": "#FF9966",
+				"hsbLight": "HSB(250,60,100)",
+				"hsbDark": "HSB(20,60,100)",
+				"role": "primary shade 4"
+			},
+			{
+				"variable": "$color-primary--shade5",
+				"hexLight": "#9966FF",
+				"hexDark": "#FF8066",
+				"hsbLight": "HSB(260,60,100)",
+				"hsbDark": "HSB(10,60,100)",
+				"role": "primary shade 5"
+			},
+			{
+				"variable": "$color-primary--shade6",
+				"hexLight": "#B366FF",
+				"hexDark": "#FF6666",
+				"hsbLight": "HSB(270,60,100)",
+				"hsbDark": "HSB(360,60,100)",
+				"role": "primary shade 6"
+			}
+		],
+		"colorMessages": [
+			{
+				"variable": "$color-success",
+				"hex": "#52CC8F",
+				"hsb": "HSB(150,60,80)",
+				"role": "success"
+			},
+			{
+				"variable": "$color-success--hover",
+				"hex": "#42A674",
+				"hsb": "HSB(150,60,65)",
+				"role": "success hover"
+			},
+			{
+				"variable": "$color-danger",
+				"hex": "#E65C5C",
+				"hsb": "HSB(360,60,90)",
+				"role": "danger"
+			},
+			{
+				"variable": "$color-danger--hover",
+				"hex": "#BF4D4D",
+				"hsb": "HSB(360,60,75)",
+				"role": "danger hover"
+			},
+			{
+				"variable": "$color-info",
+				"hex": "#5CACE6",
+				"hsb": "HSB(205,60,90)",
+				"role": "info"
+			},
+			{
+				"variable": "$color-info--hover",
+				"hex": "#4D8FBF",
+				"hsb": "HSB(205,60,75)",
+				"role": "info hover"
+			}
+		],
+		"colorBases": [
+			{
+				"variable": "$color-base",
+				"hexLight": "#555555",
+				"hexDark": "#FFFFFF",
+				"rgbaLight": "rgba(85,85,85,1)",
+				"rgbaDark": "rgba(255,255,255,1)",
+				"role": "primary text, action"
+			},
+			{
+				"variable": "$color-base--description",
+				"hexLight": "#555555 α(0.64)",
+				"hexDark": "#FFFFFF α(0.64)",
+				"rgbaLight": "rgba(85,85,85,0.64)",
+				"rgbaDark": "rgba(255,255,255,0.64)",
+				"role": "secondary text, no action"
+			},
+			{
+				"variable": "$color-base--background",
+				"hexLight": "#555555 α(0.12)",
+				"hexDark": "#FFFFFF α(0.12)",
+				"rgbaLight": "rgba(85,85,85,0.12)",
+				"rgbaDark": "rgba(255,255,255,0.12)",
+				"role": "component background, strokes"
+			},
+			{
+				"variable": "$color-theme",
+				"hexLight": "#FFFFFF",
+				"hexDark": "#121212",
+				"rgbaLight": "rgba(255,255,255,1)",
+				"rgbaDark": "rgba(12,12,12,1)",
+				"role": "header background"
+			},
+			{
+				"variable": "$color-theme--opaque",
+				"hexLight": "#FFFFFF α(0.96)",
+				"hexDark": "#121212 α(0.96)",
+				"rgbaLight": "rgba(255,255,255,0.96)",
+				"rgbaDark": "rgba(12,12,12,0.96)",
+				"role": "header background"
+			}
+		]
+	}
+}
