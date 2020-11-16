@@ -6,9 +6,9 @@
 		},
 		"imgGrey": "./src/assets/images/img-home-bggrey.png",
 		"imgEarth": "./src/assets/images/img-home-hero-earth.jpg",
-		"pdfResumeLight": "./src/assets/files/gaelbbou-light-resume.pdf",
-		"pdfResumeDark": "./src/assets/files/gaelbbou-dark-resume.pdf",
-		"pdfPortfolio": "./src/assets/files/gaelbbou-portfolio.pdf",
+		"pdfResumeLight": "./src/assets/files/thebowyer-light-resume.pdf",
+		"pdfResumeDark": "./src/assets/files/thebowyer-dark-resume.pdf",
+		"pdfPortfolio": "./src/assets/files/thebowyer-portfolio.pdf",
 		"title": "Web Design Portfolio",
 		"about": {
 			"title": {
@@ -243,7 +243,7 @@
 			"name": "coaching360",
 			"title": "Coaching 360",
 			"url": "",
-			"description": "A.I. virtual coach for crossfit aficionados.",
+			"description": "Virtual coach for crossfit workouts.",
 			"tags": [
 				"iOS Design",
 				"Style Guide",
@@ -1029,10 +1029,10 @@
 			]
 		},
 		{
-			"name": "websitedesign",
-			"title": "Website Design",
+			"name": "annesgallery",
+			"title": "Anne's Gallery",
 			"url": "",
-			"description": "Websites for various clients.",
+			"description": "Online art gallery.",
 			"tags": [
 				"Website Design",
 				"Front End"
@@ -1047,8 +1047,8 @@
 			},
 			"hero": "./src/assets/images/img-project-hero-anne@2.jpg",
 			"special": "./src/assets/images/img-project-special-anne@2.jpg",
-			"aTitle": "Anne’s Gallery",
-			"aSubtitle": "Online art gallery",
+			"aTitle": "Web App",
+			"aSubtitle": "",
 			"aWorks": [
 				{
 					"classType": "desktop",
@@ -1077,7 +1077,11 @@
 					"path2": "",
 					"width": "375",
 					"height": "812"
-				},
+				}
+			],
+			"bTitle": "Old website",
+			"bSubtitle": "",
+			"bWorks": [
 				{
 					"classType": "desktop",
 					"path1": "./src/assets/images/img-project-work-anne05.jpg",
@@ -1116,200 +1120,6 @@
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-anne10@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				}
-			],
-			"bTitle": "2016 Portfolio",
-			"bSubtitle": "My previous portfolio",
-			"bWorks": [
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-po1601.jpg",
-					"path2": "./src/assets/images/img-project-work-po1601@2.jpg 2x",
-					"width": "1200",
-					"height": "7000"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-po1602.jpg",
-					"path2": "./src/assets/images/img-project-work-po1602@2.jpg 2x",
-					"width": "1200",
-					"height": "3457"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-po1603.jpg",
-					"path2": "./src/assets/images/img-project-work-po1603@2.jpg 2x",
-					"width": "1200",
-					"height": "932"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-po1604.jpg",
-					"path2": "./src/assets/images/img-project-work-po1604@2.jpg 2x",
-					"width": "1200",
-					"height": "932"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1605@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1606@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1607@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1608@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1609@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-po1610.jpg",
-					"path2": "./src/assets/images/img-project-work-po1610@2.jpg 2x",
-					"width": "1200",
-					"height": "800"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1611.jpg",
-					"path2": "./src/assets/images/img-project-work-po1611@2.jpg 2x",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1612.jpg",
-					"path2": "./src/assets/images/img-project-work-po1612@2.jpg 2x",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-po1613.jpg",
-					"path2": "./src/assets/images/img-project-work-po1613@2.jpg 2x",
-					"width": "750",
-					"height": "1334"
-				}
-			],
-			"cTitle": "Sion Law",
-			"cSubtitle": "Law firm website.",
-			"cWorks": [
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-sion01.jpg",
-					"path2": "./src/assets/images/img-project-work-sion01@2.jpg 2x",
-					"width": "1200",
-					"height": "5688"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-sion02@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-sion03@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-sion04@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-sion05.jpg",
-					"path2": "./src/assets/images/img-project-work-sion05@2.jpg 2x",
-					"width": "1200",
-					"height": "7015"
-				}
-			],
-			"dTitle": "Day One",
-			"dSubtitle": "CMS for a consulting firm dedicated to legal and compliance.",
-			"dWorks": [
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-dayo01.jpg",
-					"path2": "./src/assets/images/img-project-work-dayo01@2.jpg 2x",
-					"width": "970",
-					"height": "832"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-dayo02.jpg",
-					"path2": "./src/assets/images/img-project-work-dayo02@2.jpg 2x",
-					"width": "970",
-					"height": "902"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-dayo03.jpg",
-					"path2": "./src/assets/images/img-project-work-dayo03@2.jpg 2x",
-					"width": "970",
-					"height": "1160"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-dayo04.jpg",
-					"path2": "./src/assets/images/img-project-work-dayo04@2.jpg 2x",
-					"width": "970",
-					"height": "856"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-dayo05.jpg",
-					"path2": "./src/assets/images/img-project-work-dayo05@2.jpg 2x",
-					"width": "970",
-					"height": "832"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-dayo06@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-dayo07@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-dayo08@2.jpg",
 					"path2": "",
 					"width": "750",
 					"height": "1334"
