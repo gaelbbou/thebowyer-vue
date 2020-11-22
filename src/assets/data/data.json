@@ -266,18 +266,18 @@
 					"path2": "./src/assets/images/img-project-work-sove01@2.jpg 2x",
 					"width": "800",
 					"height": "800"
-				},
-				{
-					"classType": "tablet",
-					"path1": "./src/assets/images/img-project-work-sove02.jpg",
-					"path2": "./src/assets/images/img-project-work-sove02@2.jpg 2x",
-					"width": "800",
-					"height": "800"
 				}
 			],
 			"bTitle": "Web App",
 			"bSubtitle": "",
 			"bWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-sove02.jpg",
+					"path2": "./src/assets/images/img-project-work-sove02@2.jpg 2x",
+					"width": "1600",
+					"height": "1200"
+				},
 				{
 					"classType": "desktop",
 					"path1": "./src/assets/images/img-project-work-sove03.jpg",
@@ -293,11 +293,11 @@
 					"height": "1200"
 				},
 				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-sove05.jpg",
-					"path2": "./src/assets/images/img-project-work-sove05@2.jpg 2x",
-					"width": "1600",
-					"height": "1200"
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-sove05@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1624"
 				}
 			]
 		},
@@ -1127,15 +1127,22 @@
 					"height": "961"
 				},
 				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-anne03.jpg",
+					"path2": "./src/assets/images/img-project-work-anne03@2.jpg 2x",
+					"width": "1200",
+					"height": "1606"
+				},
+				{
 					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-anne03@2.png",
+					"path1": "./src/assets/images/img-project-work-anne04@2.png",
 					"path2": "",
 					"width": "375",
 					"height": "812"
 				},
 				{
 					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-anne04@2.png",
+					"path1": "./src/assets/images/img-project-work-anne05@2.png",
 					"path2": "",
 					"width": "375",
 					"height": "812"
