@@ -1140,52 +1140,6 @@
 					"width": "375",
 					"height": "812"
 				}
-			],
-			"bTitle": "Old website",
-			"bSubtitle": "",
-			"bWorks": [
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-anne05.jpg",
-					"path2": "./src/assets/images/img-project-work-anne05@2.jpg 2x",
-					"width": "1440",
-					"height": "1948"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-anne06.jpg",
-					"path2": "./src/assets/images/img-project-work-anne06@2.jpg 2x",
-					"width": "1440",
-					"height": "2551"
-				},
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-anne07.jpg",
-					"path2": "./src/assets/images/img-project-work-anne07@2.jpg 2x",
-					"width": "1440",
-					"height": "1415"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-anne08@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-anne09@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-anne10@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				}
 			]
 		},
 		{
