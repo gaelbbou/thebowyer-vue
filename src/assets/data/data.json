@@ -245,7 +245,8 @@
 			"url": "",
 			"description": "Decentralized exchange for cryptocurrencies.",
 			"tags": [
-				"Web App Design"
+				"Web App Design",
+				"iOS Design"
 			],
 			"mosaic": {
 				"path1": "./src/assets/images/img-project-mosaic-sove.jpg",
