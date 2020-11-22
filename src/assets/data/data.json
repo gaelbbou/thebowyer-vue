@@ -240,6 +240,68 @@
 	},
 	"projects": [
 		{
+			"name": "sovereignify",
+			"title": "Sovereignify",
+			"url": "",
+			"description": "Decentralized exchange for cryptocurrencies.",
+			"tags": [
+				"Web App Design"
+			],
+			"mosaic": {
+				"path1": "./src/assets/images/img-project-mosaic-sove.jpg",
+				"path2": "./src/assets/images/img-project-mosaic-sove@2.jpg 2x"
+			},
+			"mock": {
+				"path1": "./src/assets/images/img-project-mock-sove.png",
+				"path2": "./src/assets/images/img-project-mock-sove@2.png 2x"
+			},
+			"hero": "./src/assets/images/img-project-hero-sove@2.jpg",
+			"special": "",
+			"aTitle": "Logo",
+			"aSubtitle": "",
+			"aWorks": [
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-sove01.jpg",
+					"path2": "./src/assets/images/img-project-work-sove01@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				},
+				{
+					"classType": "tablet",
+					"path1": "./src/assets/images/img-project-work-sove02.jpg",
+					"path2": "./src/assets/images/img-project-work-sove02@2.jpg 2x",
+					"width": "800",
+					"height": "800"
+				}
+			],
+			"bTitle": "Web App",
+			"bSubtitle": "",
+			"bWorks": [
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-sove03.jpg",
+					"path2": "./src/assets/images/img-project-work-sove03@2.jpg 2x",
+					"width": "1600",
+					"height": "1200"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-sove04.jpg",
+					"path2": "./src/assets/images/img-project-work-sove04@2.jpg 2x",
+					"width": "1600",
+					"height": "1200"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-sove05.jpg",
+					"path2": "./src/assets/images/img-project-work-sove05@2.jpg 2x",
+					"width": "1600",
+					"height": "1200"
+				}
+			]
+		},
+		{
 			"name": "coaching360",
 			"title": "Coaching 360",
 			"url": "",
