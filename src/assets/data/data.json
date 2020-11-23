@@ -21,19 +21,19 @@
 				"eng": "Digital Product Designer specialized in web & mobile apps, style guides and brand identity.",
 				"fra": "Designer Produit Numerique specialisé dans les applications web et mobiles, les style guides et l'identité de marque.",
 				"esp": "Diseñador Producto Digital especializado en diseño de aplicaciones web y móviles, guías de estilo e identidad de marca.",
-				"chi": "专门从事网络和移动应用程序，样式指南和品牌标识的数字产品设计师。"
+				"chi": "数字产品设计师，专注于网页端和移动端应用程序开发，风格指南和品牌标识的设计。"
 			},
 			"description2": {
 				"eng": "Experience in digital marketing, front-end development & management.",
 				"fra": "Experience en marketing digital, développement front-end et management.",
 				"esp": "Experiencia en marketing digital, desarrollo front-end y manejo.",
-				"chi": "具有数字营销，前端开发和管理方面的经验。"
+				"chi": "具有丰富的数字营销，前端开发和管理方面的经验。"
 			},
 			"description3": {
 				"eng": "Blockchain enthusiast, open-source believer, decentralization pusher.",
 				"fra": "Blockchain enthusiast, open-source believer, decentralization pusher.",
 				"esp": "Blockchain enthusiast, open-source believer, decentralization pusher.",
-				"chi": "Blockchain enthusiast, open-source believer, decentralization pusher."
+				"chi": "区块链专家，开源及去中心化运动的倡导者。"
 			}
 		},
 		"experiences": [
@@ -43,7 +43,7 @@
 					"eng": "Senior Product Designer & Front-End Developer",
 					"fra": "Designer Produit Senior et Développeur Front-End",
 					"esp": "Diseñador Producto Senior y Desarrollador Front-End",
-					"chi": "高级产品设计师和前端开发人员"
+					"chi": "高级产品设计师和前端开发工程师"
 				},
 				"date": "March 2016 to Present - New York, USA",
 				"company": "Freelancer",
@@ -68,8 +68,8 @@
 						"• Gestión de proyectos entre departamentos de producto digital, marketing y tecnología."
 					],
 					"chi": [
-						"• 负责不同响应式网站和移动应用程序的首席数字产品设计师。",
-						"• 产品，市场和技术部门之间的项目经理。"
+						"• 首席数字产品设计师，负责各类响应式网站和移动端应用。",
+						"• 项目经理，管理跨部门的协调，包括产品，市场和技术部门等。"
 					]
 				},
 				"tags": [
@@ -99,7 +99,7 @@
 					"eng": " on-demand local marketplace for restaurants, liquor stores and cleaners.",
 					"fra": " marché local à la demande pour les restaurants, les magasins d'alcools et les nettoyeurs.",
 					"esp": " plataforma digital que permite hacer pedidos en restaurantes, licorerías y tintorerías.",
-					"chi": " 餐厅，酒类商店和清洁工的按需本地市场。"
+					"chi": " 是一家按需线上需求提供餐厅，酒类商店和清洁工商品和服务的平台。"
 				},
 				"tasks": {
 					"eng": [
@@ -118,9 +118,9 @@
 						"• Creación de guía de estilo utilizada por diseñadores y desarrolladores dentro de la empresa."
 					],
 					"chi": [
-						"• iOS原生应用程序的首席产品设计师。",
-						"• iOS应用程序在App Store上的排名大大提高。",
-						"• 创建了供公司内的设计师和开发人员使用的样式指南。"
+						"• 首席产品设计师，负责iOS原生应用。",
+						"• 大幅提高该iOS 应用在App Store上的排名。",
+						"• 设计了可供公司的设计师和开发人员使用的风格设计指南。"
 					]
 				},
 				"tags": [
@@ -146,7 +146,7 @@
 					"eng": " on-and-offline shaving company.",
 					"fra": " entreprise de rasage en ligne et hors ligne.",
 					"esp": " empresa de afeitado en línea y fuera de línea.",
-					"chi": " 在线和离线剃须公司。"
+					"chi": " 一家线上及线下的剃须产品提供商。"
 				},
 				"tasks": {
 					"eng": [
@@ -162,8 +162,8 @@
 						"• Responsable de dirigir a un equipo de diseñadores, desarrolladores y comercializadores."
 					],
 					"chi": [
-						"• 负责全球通讯（电子商务和零售商店）。",
-						"• 管理了一个由设计师，开发人员和营销人员组成的团队。"
+						"• 负责全球通讯，包括电子商务和零售商店。",
+						"• 领导由设计师，开发人员和营销人员组成的团队。"
 					]
 				},
 				"tags": [
@@ -184,7 +184,7 @@
 					"eng": "Digital Marketing Designer",
 					"fra": "Digital Marketing Designer",
 					"esp": "Diseñador de Marketing Digital",
-					"chi": "数字营销设计师"
+					"chi": "数字营销经理"
 				},
 				"date": "March 2011 to May 2013 - New York, USA",
 				"company": "Totsy.com,",
@@ -193,7 +193,7 @@
 					"eng": " flash sales for moms, babies and kids.",
 					"fra": " ventes privées pour mamans, bébés et enfants.",
 					"esp": " ventas privadas de productos para mamás, niños y bebés.",
-					"chi": " 妈妈，婴儿和孩子的私人销售。"
+					"chi": " 专门提供母婴用品的网上限时特卖平台。"
 				},
 				"tasks": {
 					"eng": [
@@ -206,7 +206,7 @@
 						"• Responsable de las presentaciones para inversores (Serie B)."
 					],
 					"chi": [
-						"• 负责投资者介绍（系列B）。"
+						"• 负责所有B轮融资的介绍。"
 					]
 				},
 				"tags": [
@@ -231,7 +231,7 @@
 					"eng": " (DDB, TBWA, McCann).",
 					"fra": " (DDB, TBWA, McCann).",
 					"esp": " (DDB, TBWA, McCann).",
-					"chi": " (DDB, TBWA, McCann)."
+					"chi": " 广告公司，如DDB，TBWA，McCann。"
 				},
 				"tasks": [],
 				"tags": []

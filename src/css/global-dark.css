@@ -2517,15 +2517,15 @@ footer h5 {
   display: none !important;
 }
 
-@media (min-height: 750px) {
-  #home #home-hero .iphone5-hide {
-    display: inline-block !important;
-  }
-}
-
 @media (min-width: 500px) {
   #home #home-hero .hero-title {
     top: 35%;
+  }
+}
+
+@media (min-height: 750px) {
+  #home #home-hero .iphone5-hide {
+    display: inline-block !important;
   }
 }
 

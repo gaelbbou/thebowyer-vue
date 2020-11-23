@@ -12,9 +12,10 @@
         background-repeat: no-repeat;
         background-color: #000000;
 
-		#spiders {
-			display: inline-block;
-		}
+        #spiders {
+            display: inline-block;
+        }
+
         canvas.background-black {
             background-color: rgba(0, 0, 0, 0.50);
         }
@@ -46,15 +47,6 @@
 
     /* RESPONSIVE ============================================================ */
 
-    //special
-    @media (min-height: 750px) {
-        #home-hero {
-            .iphone5-hide {
-                display: inline-block !important;
-            }
-        }
-    }
-
     //tablet
     @media (min-width: 500px) {
 
@@ -66,8 +58,17 @@
         }
     }
 
-	//laptop
-	@media (min-height: 1000px) {
+    //special
+    @media (min-height: 750px) {
+        #home-hero {
+            .iphone5-hide {
+                display: inline-block !important;
+            }
+        }
+    }
+
+    //laptop
+    @media (min-height: 1000px) {
         #home-hero {
             .hero-title {
                 top: 45%;
