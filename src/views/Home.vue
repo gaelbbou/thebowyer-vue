@@ -54,6 +54,14 @@ export default {
 		'icon-arrowdown': IconArrowdown
 	},
 	methods: {
+		// isMobile function to determine if the device is mobile
+		isMobile() {
+			return /Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone|IEMobile|Opera Mini/i.test(navigator.userAgent);
+		},
+		// if isMobile return true, hide #spiders
+		if (isMobile) {
+			document.querySelector('#spiders').style.display = "none";
+		},
 		smoothscrollPortfolio() {
 			document.querySelector('#portfolio').scrollIntoView({
 				behavior: 'smooth'

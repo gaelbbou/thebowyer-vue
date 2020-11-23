@@ -2487,6 +2487,10 @@ footer h5 {
   background-color: #000000;
 }
 
+#home #home-hero #spiders {
+  display: inline-block;
+}
+
 #home #home-hero canvas.background-black {
   background-color: rgba(0, 0, 0, 0.5);
 }

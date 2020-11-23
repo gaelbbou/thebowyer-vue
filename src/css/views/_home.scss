@@ -12,6 +12,9 @@
         background-repeat: no-repeat;
         background-color: #000000;
 
+		#spiders {
+			display: inline-block;
+		}
         canvas.background-black {
             background-color: rgba(0, 0, 0, 0.50);
         }
@@ -63,7 +66,8 @@
         }
     }
 
-	 @media (min-height: 1000px) {
+	//laptop
+	@media (min-height: 1000px) {
         #home-hero {
             .hero-title {
                 top: 45%;
