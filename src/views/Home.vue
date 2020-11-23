@@ -5,7 +5,8 @@
 
 		<!-- hero -->
 		<div id="home-hero" v-bind:style="{ backgroundImage: 'url(' + data.website.imgEarth + ')' }">
-			<canvas id="spiders" class="overlay background-black"></canvas>
+			<canvas id="spiders" class="overlay"></canvas>
+			<canvas class="overlay background-black"></canvas>
 			<div class="hero-title align-center setting-anim--fadeinup setting-anim--delayed">
 				<div class="container">
 					<h1 class="align-center color-white">{{ data.website.title }}</h1>
