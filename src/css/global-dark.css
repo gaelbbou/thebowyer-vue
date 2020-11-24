@@ -2488,7 +2488,7 @@ footer h5 {
 }
 
 #home #home-hero #spiders {
-  display: inline-block;
+  display: none;
 }
 
 #home #home-hero canvas.background-black {
@@ -2520,6 +2520,9 @@ footer h5 {
 @media (min-width: 500px) {
   #home #home-hero .hero-title {
     top: 35%;
+  }
+  #home #home-hero #spiders {
+    display: inline-block;
   }
 }
 

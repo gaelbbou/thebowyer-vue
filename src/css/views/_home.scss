@@ -13,7 +13,7 @@
         background-color: #000000;
 
         #spiders {
-            display: inline-block;
+            display: none;
         }
 
         canvas.background-black {
@@ -49,12 +49,14 @@
 
     //tablet
     @media (min-width: 500px) {
-
         #home-hero {
             .hero-title {
                 top: 35%;
             }
 
+            #spiders {
+                display: inline-block;
+            }
         }
     }
 

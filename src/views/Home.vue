@@ -1,19 +1,34 @@
 <template>
 	<div id="home">
 		<!-- preload -->
-		<img class="display-none" loading="eager" v-bind:src="data.website.imgEarth" />
+		<img
+			class="display-none"
+			loading="eager"
+			v-bind:src="data.website.imgEarth"
+		/>
 
 		<!-- hero -->
-		<div id="home-hero" v-bind:style="{ backgroundImage: 'url(' + data.website.imgEarth + ')' }">
-			<canvas id="spiders" class="overlay"></canvas>
+		<div
+			id="home-hero"
+			v-bind:style="{
+				backgroundImage: 'url(' + data.website.imgEarth + ')',
+			}"
+		>
 			<canvas class="overlay background-black"></canvas>
-			<div class="hero-title align-center setting-anim--fadeinup setting-anim--delayed">
+			<canvas id="spiders" class="overlay"></canvas>
+			<div
+				class="hero-title align-center setting-anim--fadeinup setting-anim--delayed"
+			>
 				<div class="container">
-					<h1 class="align-center color-white">{{ data.website.title }}</h1>
+					<h1 class="align-center color-white">
+						{{ data.website.title }}
+					</h1>
 					<p class="align-center color-white" style="max-width: 100%">
 						{{ data.website.about.description1.eng }}
 						<br />
-						<span class="iphone5-hide">{{ data.website.about.description3.eng }}</span>
+						<span class="iphone5-hide">{{
+							data.website.about.description3.eng
+						}}</span>
 					</p>
 				</div>
 			</div>
@@ -55,14 +70,17 @@ export default {
 		'icon-arrowdown': IconArrowdown
 	},
 	methods: {
-		// isMobile function to determine if the device is mobile
-		isMobile() {
-			return /Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone|IEMobile|Opera Mini/i.test(navigator.userAgent);
-		},
-		// if isMobile return true, hide #spiders
-		if (isMobile) {
-			document.querySelector('#spiders').style.display = "none";
-		},
+		// // isMobile function to determine if the device is mobile
+		// isMobile() {
+		// 	return /Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone|IEMobile|Opera Mini/i.test(navigator.userAgent);
+		// },
+		// // if isMobile return false, show #spiders
+		// isnotMobile() {
+		// 	if (this.isMobile = false) {
+		// 		document.querySelector('#spiders').style.display = "inline-block";
+		// 		alert('Alert!');
+		// 	}
+		// },
 		smoothscrollPortfolio() {
 			document.querySelector('#portfolio').scrollIntoView({
 				behavior: 'smooth'

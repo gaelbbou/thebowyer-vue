@@ -299,6 +299,13 @@
 					"path2": "",
 					"width": "750",
 					"height": "1624"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-sove06@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1624"
 				}
 			]
 		},
@@ -421,7 +428,7 @@
 					"height": "1334"
 				}
 			],
-			"cTitle": "Landing Page, Blog Page & Style Guide",
+			"cTitle": "Landing Page & Blog Page",
 			"cSubtitle": "",
 			"cWorks": [
 				{
@@ -437,7 +444,11 @@
 					"path2": "./src/assets/images/img-project-work-coac15@2.jpg 2x",
 					"width": "1200",
 					"height": "4103"
-				},
+				}
+			],
+			"dTitle": "Style Guide",
+			"dSubtitle": "",
+			"dWorks": [
 				{
 					"classType": "desktop",
 					"path1": "./src/assets/images/img-project-work-coac16.jpg",
@@ -1136,17 +1147,17 @@
 				},
 				{
 					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-anne04@2.png",
+					"path1": "./src/assets/images/img-project-work-anne04@2.jpg",
 					"path2": "",
-					"width": "375",
-					"height": "812"
+					"width": "750",
+					"height": "1624"
 				},
 				{
 					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-anne05@2.png",
+					"path1": "./src/assets/images/img-project-work-anne05@2.jpg",
 					"path2": "",
-					"width": "375",
-					"height": "812"
+					"width": "750",
+					"height": "1624"
 				}
 			]
 		},
