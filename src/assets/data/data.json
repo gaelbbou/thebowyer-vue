@@ -457,25 +457,32 @@
 					"path1": "./src/assets/images/img-project-work-coac15.jpg",
 					"path2": "./src/assets/images/img-project-work-coac15@2.jpg 2x",
 					"width": "1200",
-					"height": "4103"
+					"height": "4032"
 				}
 			],
 			"dTitle": "Style Guide",
 			"dSubtitle": "",
 			"dWorks": [
 				{
-					"classType": "desktop",
+					"classType": "tablet",
 					"path1": "./src/assets/images/img-project-work-coac16.jpg",
 					"path2": "./src/assets/images/img-project-work-coac16@2.jpg 2x",
-					"width": "1200",
-					"height": "10406"
+					"width": "800",
+					"height": "800"
 				},
 				{
 					"classType": "desktop",
 					"path1": "./src/assets/images/img-project-work-coac17.jpg",
 					"path2": "./src/assets/images/img-project-work-coac17@2.jpg 2x",
 					"width": "1200",
-					"height": "6878"
+					"height": "10800"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac18.jpg",
+					"path2": "./src/assets/images/img-project-work-coac18@2.jpg 2x",
+					"width": "1200",
+					"height": "12800"
 				}
 			]
 		},
@@ -1900,7 +1907,7 @@
 				"hexDark": "#121212",
 				"rgbaLight": "rgba(255,255,255,1)",
 				"rgbaDark": "rgba(12,12,12,1)",
-				"role": "header background"
+				"role": "general background"
 			},
 			{
 				"variable": "$color-theme--opaque",

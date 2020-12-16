@@ -417,7 +417,7 @@
 						</div>
 						<div class="swatch-info">
 							<h6>$b8</h6>
-							<h6>components background</h6>
+							<h6>component containers</h6>
 						</div>
 					</li>
 					<li class="swatch setting-shadow--motion" style="border-radius: 256px 256px 0 0">
