@@ -1158,15 +1158,15 @@
 			"dWorks": [
 				{
 					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-deli25.jpg",
-					"path2": "./src/assets/images/img-project-work-deli25@2.jpg 2x",
+					"path1": "./src/assets/images/img-project-work-deli60.jpg",
+					"path2": "./src/assets/images/img-project-work-deli60@2.jpg 2x",
 					"width": "1200",
 					"height": "2602"
 				},
 				{
 					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-deli26.jpg",
-					"path2": "./src/assets/images/img-project-work-deli26@2.jpg 2x",
+					"path1": "./src/assets/images/img-project-work-deli61.jpg",
+					"path2": "./src/assets/images/img-project-work-deli61@2.jpg 2x",
 					"width": "1200",
 					"height": "11632"
 				}
