@@ -441,21 +441,29 @@
 					"width": "750",
 					"height": "1334"
 				}
+				,
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-coac14@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				}
 			],
 			"cTitle": "Landing Page & Blog Page",
 			"cSubtitle": "",
 			"cWorks": [
 				{
 					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-coac14.jpg",
-					"path2": "./src/assets/images/img-project-work-coac14@2.jpg 2x",
+					"path1": "./src/assets/images/img-project-work-coac20.jpg",
+					"path2": "./src/assets/images/img-project-work-coac20@2.jpg 2x",
 					"width": "1200",
 					"height": "10578"
 				},
 				{
 					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-coac15.jpg",
-					"path2": "./src/assets/images/img-project-work-coac15@2.jpg 2x",
+					"path1": "./src/assets/images/img-project-work-coac21.jpg",
+					"path2": "./src/assets/images/img-project-work-coac21@2.jpg 2x",
 					"width": "1200",
 					"height": "4032"
 				}
@@ -465,15 +473,15 @@
 			"dWorks": [
 				{
 					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-coac16.jpg",
-					"path2": "./src/assets/images/img-project-work-coac16@2.jpg 2x",
+					"path1": "./src/assets/images/img-project-work-coac22.jpg",
+					"path2": "./src/assets/images/img-project-work-coac22@2.jpg 2x",
 					"width": "1200",
 					"height": "10464"
 				},
 				{
 					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-coac17.jpg",
-					"path2": "./src/assets/images/img-project-work-coac17@2.jpg 2x",
+					"path1": "./src/assets/images/img-project-work-coac23.jpg",
+					"path2": "./src/assets/images/img-project-work-coac23@2.jpg 2x",
 					"width": "1200",
 					"height": "12800"
 				}
