@@ -884,105 +884,105 @@
 					"path1": "./src/assets/images/img-project-work-deli09@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli10@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli11@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli12@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli13@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli14@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli15@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli16@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli17@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli18@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli19@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli20@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli21@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli22@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli23@2.jpg",
 					"path2": "",
 					"width": "750",
-					"height": "2000"
+					"height": "1334"
 				},
 				{
 					"classType": "mobile",
@@ -1032,51 +1032,9 @@
 					"path2": "",
 					"width": "750",
 					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli31@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli32@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli33@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli34@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli35@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli36@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
 				}
 			],
-			"bTitle": "iOS Ratings",
+			"bTitle": "iOS Ratings & Reviews",
 			"bSubtitle": "",
 			"bWorks": [
 				{
@@ -1120,9 +1078,23 @@
 					"path2": "",
 					"width": "750",
 					"height": "1334"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli46.jpg",
+					"path2": "./src/assets/images/img-project-work-deli46@2.jpg 2x",
+					"width": "1200",
+					"height": "1432"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli47.jpg",
+					"path2": "./src/assets/images/img-project-work-deli47@2.jpg 2x",
+					"width": "1200",
+					"height": "2602"
 				}
 			],
-			"cTitle": "Web App",
+			"cTitle": "Web App & Style Guide",
 			"cSubtitle": "", 
 			"cWorks": [
 				{
@@ -1159,22 +1131,11 @@
 					"path2": "./src/assets/images/img-project-work-deli55@2.jpg 2x",
 					"width": "768",
 					"height": "1024"
-				}
-			],
-			"dTitle": "Press Review & Style Guide",
-			"dSubtitle": "",
-			"dWorks": [
-				{
-					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-deli60.jpg",
-					"path2": "./src/assets/images/img-project-work-deli60@2.jpg 2x",
-					"width": "1200",
-					"height": "2602"
 				},
 				{
 					"classType": "desktop",
-					"path1": "./src/assets/images/img-project-work-deli61.jpg",
-					"path2": "./src/assets/images/img-project-work-deli61@2.jpg 2x",
+					"path1": "./src/assets/images/img-project-work-deli57.jpg",
+					"path2": "./src/assets/images/img-project-work-deli57@2.jpg 2x",
 					"width": "1200",
 					"height": "11632"
 				}
