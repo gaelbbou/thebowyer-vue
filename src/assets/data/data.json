@@ -853,27 +853,6 @@
 				},
 				{
 					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli05@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli06@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
-					"path1": "./src/assets/images/img-project-work-deli07@2.jpg",
-					"path2": "",
-					"width": "750",
-					"height": "1334"
-				},
-				{
-					"classType": "mobile",
 					"path1": "./src/assets/images/img-project-work-deli08@2.jpg",
 					"path2": "",
 					"width": "750",
