@@ -1011,6 +1011,20 @@
 					"path2": "",
 					"width": "750",
 					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli31@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
+				},
+				{
+					"classType": "mobile",
+					"path1": "./src/assets/images/img-project-work-deli32@2.jpg",
+					"path2": "",
+					"width": "750",
+					"height": "1334"
 				}
 			],
 			"bTitle": "iOS Ratings & Reviews",
