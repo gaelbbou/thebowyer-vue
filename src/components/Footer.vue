@@ -20,15 +20,15 @@
 </template>
 
 <script>
-// import IconLinkedin from '../assets/icons/IconLinkedin.vue';
-// import IconDribbble from '../assets/icons/IconDribbble.vue';
-// import IconGithub from '../assets/icons/IconGithub.vue';
+import IconLinkedin from '../assets/icons/IconLinkedin.vue';
+import IconDribbble from '../assets/icons/IconDribbble.vue';
+import IconGithub from '../assets/icons/IconGithub.vue';
 
 export default {
 	components: {
-		// 'icon-linkedin': IconLinkedin
-		// 'icon-dribbble': IconDribbble,
-		// 'icon-github': IconGithub
+		'icon-linkedin': IconLinkedin,
+		'icon-dribbble': IconDribbble,
+		'icon-github': IconGithub
 	}
 }
 </script>
