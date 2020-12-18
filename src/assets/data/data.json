@@ -448,6 +448,13 @@
 					"path2": "",
 					"width": "750",
 					"height": "1334"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-coac15@2.jpg",
+					"path2": "./src/assets/images/img-project-work-coac15@2.jpg",
+					"width": "5526",
+					"height": "2394"
 				}
 			],
 			"cTitle": "Landing Page & Blog Page",
@@ -1025,6 +1032,13 @@
 					"path2": "",
 					"width": "750",
 					"height": "1334"
+				},
+				{
+					"classType": "desktop",
+					"path1": "./src/assets/images/img-project-work-deli33.jpg",
+					"path2": "./src/assets/images/img-project-work-deli33@2.jpg",
+					"width": "6690",
+					"height": "3451"
 				}
 			],
 			"bTitle": "iOS Ratings & Reviews",
