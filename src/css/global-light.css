@@ -2590,13 +2590,19 @@ footer h5 {
   margin-left: auto;
 }
 
-#projects #projects-work .desktop,
 #projects #projects-work .tablet,
-#projects #projects-work .mobile {
+#projects #projects-work .mobile,
+#projects #projects-work .desktop,
+#projects #projects-work .full {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 32px;
+}
+
+#projects #projects-work .tablet {
+  max-width: 800px;
+  display: block;
 }
 
 #projects #projects-work .desktop {
@@ -2604,8 +2610,8 @@ footer h5 {
   display: block;
 }
 
-#projects #projects-work .tablet {
-  max-width: 800px;
+#projects #projects-work .full {
+  max-width: 1800px;
   display: block;
 }
 

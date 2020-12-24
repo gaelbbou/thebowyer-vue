@@ -450,11 +450,11 @@
 					"height": "1334"
 				},
 				{
-					"classType": "desktop",
+					"classType": "full",
 					"path1": "./src/assets/images/img-project-work-coac15@2.jpg",
 					"path2": "./src/assets/images/img-project-work-coac15@2.jpg",
-					"width": "5526",
-					"height": "2394"
+					"width": "1800",
+					"height": "774"
 				}
 			],
 			"cTitle": "Landing Page & Blog Page",
@@ -781,8 +781,8 @@
 					"classType": "desktop",
 					"path1": "./src/assets/images/img-project-work-toct25.jpg",
 					"path2": "./src/assets/images/img-project-work-toct25@2.jpg 2x",
-					"width": "1300",
-					"height": "7503"
+					"width": "1200",
+					"height": "6926"
 				},
 				{
 					"classType": "tablet",
@@ -1034,11 +1034,11 @@
 					"height": "1334"
 				},
 				{
-					"classType": "desktop",
+					"classType": "full",
 					"path1": "./src/assets/images/img-project-work-deli33.jpg",
 					"path2": "./src/assets/images/img-project-work-deli33@2.jpg",
-					"width": "6690",
-					"height": "3451"
+					"width": "1800",
+					"height": "928"
 				}
 			],
 			"bTitle": "iOS Ratings & Reviews",
