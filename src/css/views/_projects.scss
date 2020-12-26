@@ -51,27 +51,27 @@
 
     #projects-work {
 
-        .tablet,
-        .mobile,
-		.desktop,
-		.full {
+        .work-tablet,
+        .work-mobile,
+        .work-desktop,
+        .work-full {
             display: inline-block;
             margin-left: auto;
             margin-right: auto;
             margin-bottom: $b32;
         }
 
-		.tablet {
+        .work-tablet {
             max-width: 800px;
             display: block;
         }
 
-        .desktop {
+        .work-desktop {
             max-width: 1200px;
             display: block;
         }
 
-		.full {
+        .work-full {
             max-width: 1800px;
             display: block;
         }
@@ -92,7 +92,7 @@
     }
 
 
-/* RESPONSIVE ============================================================ */
+    /* RESPONSIVE ============================================================ */
     //tablet
     @media (min-width: 500px) {
 
@@ -105,7 +105,7 @@
         }
 
         #projects-work {
-            .mobile {
+            .work-mobile {
                 width: 45%;
                 margin-left: 2.5%;
                 margin-right: 2.5%;
@@ -118,13 +118,14 @@
 
         #projects-work {
 
-            .desktop,
-            .tablet,
-            .mobile {
+            .work-mobile,
+            .work-tablet,
+            .work-desktop,
+            .work-full {
                 margin-bottom: $b64;
             }
 
-            .mobile {
+            .work-mobile {
                 width: 28.33%;
                 margin-left: 2.5%;
                 margin-right: 2.5%;
@@ -137,7 +138,7 @@
 
         #projects-work {
 
-            .mobile {
+            .work-mobile {
                 width: 20%;
                 margin-left: 2.5%;
                 margin-right: 2.5%;

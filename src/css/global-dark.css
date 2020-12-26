@@ -2590,27 +2590,27 @@ footer h5 {
   margin-left: auto;
 }
 
-#projects #projects-work .tablet,
-#projects #projects-work .mobile,
-#projects #projects-work .desktop,
-#projects #projects-work .full {
+#projects #projects-work .work-tablet,
+#projects #projects-work .work-mobile,
+#projects #projects-work .work-desktop,
+#projects #projects-work .work-full {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 32px;
 }
 
-#projects #projects-work .tablet {
+#projects #projects-work .work-tablet {
   max-width: 800px;
   display: block;
 }
 
-#projects #projects-work .desktop {
+#projects #projects-work .work-desktop {
   max-width: 1200px;
   display: block;
 }
 
-#projects #projects-work .full {
+#projects #projects-work .work-full {
   max-width: 1800px;
   display: block;
 }
@@ -2635,7 +2635,7 @@ footer h5 {
   #projects #projects-mock .mock {
     margin-top: -128px;
   }
-  #projects #projects-work .mobile {
+  #projects #projects-work .work-mobile {
     width: 45%;
     margin-left: 2.5%;
     margin-right: 2.5%;
@@ -2643,12 +2643,13 @@ footer h5 {
 }
 
 @media (min-width: 1000px) {
-  #projects #projects-work .desktop,
-  #projects #projects-work .tablet,
-  #projects #projects-work .mobile {
+  #projects #projects-work .work-mobile,
+  #projects #projects-work .work-tablet,
+  #projects #projects-work .work-desktop,
+  #projects #projects-work .work-full {
     margin-bottom: 64px;
   }
-  #projects #projects-work .mobile {
+  #projects #projects-work .work-mobile {
     width: 28.33%;
     margin-left: 2.5%;
     margin-right: 2.5%;
@@ -2656,7 +2657,7 @@ footer h5 {
 }
 
 @media (min-width: 1500px) {
-  #projects #projects-work .mobile {
+  #projects #projects-work .work-mobile {
     width: 20%;
     margin-left: 2.5%;
     margin-right: 2.5%;
