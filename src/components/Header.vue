@@ -37,6 +37,7 @@
 						>
 							<!-- menu icon for mobile -->
 							<icon-projects class="icon icon-big display-mobile display-tablet"></icon-projects>
+							<icon-caret class="icon icon-mini display-mobile display-tablet"></icon-caret>
 							<!-- menu text for desktop -->
 							<span class="display-laptop display-desktop">
 								Projects

@@ -61,8 +61,8 @@ header {
         }
 
         #header-nav>li {
-            margin-left: 8%;
-            margin-right: 8%;
+            margin-left: 10%;
+            margin-right: 10%;
 
             &:first-of-type {
                 margin-left: 0;
@@ -71,6 +71,22 @@ header {
             &:last-of-type {
                 margin-right: 0;
             }
+        }
+    }
+
+    //mobile
+    @media (max-width: 499px) {
+        #header-nav>li {
+            margin-left: 8%;
+            margin-right: 8%;
+        }
+    }
+
+    //mobileSpecial
+    @media (max-width: 365px) {
+        #header-nav>li {
+            margin-left: 6%;
+            margin-right: 6%;
         }
     }
 }

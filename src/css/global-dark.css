@@ -2170,14 +2170,28 @@ header .header-line {
     float: none !important;
   }
   header #header-nav > li {
-    margin-left: 8%;
-    margin-right: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
   header #header-nav > li:first-of-type {
     margin-left: 0;
   }
   header #header-nav > li:last-of-type {
     margin-right: 0;
+  }
+}
+
+@media (max-width: 499px) {
+  header #header-nav > li {
+    margin-left: 8%;
+    margin-right: 8%;
+  }
+}
+
+@media (max-width: 365px) {
+  header #header-nav > li {
+    margin-left: 6%;
+    margin-right: 6%;
   }
 }
 
