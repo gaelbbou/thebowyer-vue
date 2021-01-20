@@ -1,9 +1,7 @@
 {
 	"website": {
-		"imgHeadshot": {
-			"path1": "./src/assets/images/img-home-head.jpg",
-			"path2": "./src/assets/images/img-home-head@2.jpg 2x"
-		},
+		"imgHeadshot": "./src/assets/images/img-home-head@2.jpg",
+		"imgHeadshotThug": "./src/assets/images/img-home-head-thug@2.jpg",
 		"imgGrey": "./src/assets/images/img-home-bggrey.png",
 		"imgEarth": "./src/assets/images/img-home-hero-earth.jpg",
 		"pdfResumeLight": "./src/assets/files/thebowyer-light-resume.pdf",
