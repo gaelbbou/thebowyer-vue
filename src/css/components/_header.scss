@@ -44,17 +44,20 @@ header {
         border-bottom: 1px solid rgba(255, 255, 255, 0.12); //theme white-background
         margin-top: 23px;
     }
-}
-
-// /header
 
 
 
-/* RESPONSIVE ============================================================ */
-header {
+
+    /* RESPONSIVE ============================================================ */
 
     //tablet
     @media (max-width: 999px) {
+
+        right: 0;
+        bottom: 0;
+        left: 0;
+
+
         #header-nav {
             text-align: center !important;
             float: none !important;

@@ -2131,6 +2131,7 @@ header {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   padding-top: 28px;
+  /* RESPONSIVE ============================================================ */
 }
 
 header #header-logo:hover {
@@ -2163,8 +2164,12 @@ header .header-line {
   margin-top: 23px;
 }
 
-/* RESPONSIVE ============================================================ */
 @media (max-width: 999px) {
+  header {
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
   header #header-nav {
     text-align: center !important;
     float: none !important;

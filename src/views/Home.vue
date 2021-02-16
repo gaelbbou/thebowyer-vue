@@ -44,7 +44,7 @@
 		<portfolio-app></portfolio-app>
 		<preload-app></preload-app>
 		<home-experience></home-experience>
-		<home-contact></home-contact>
+		<contact-app></contact-app>
 	</div>
 </template>
 
@@ -54,7 +54,7 @@ import IconArrowdown from '../assets/icons/IconArrowdown.vue';
 import Portfolio from '../components/Portfolio.vue';
 import Preload from '../components/Preload.vue';
 import HomeExperience from '../components/HomeExperience.vue';
-import HomeContact from '../components/HomeContact.vue';
+import Contact from '../components/Contact.vue';
 
 export default {
 	data() {
@@ -66,7 +66,7 @@ export default {
 		'portfolio-app': Portfolio,
 		'preload-app': Preload,
 		'home-experience': HomeExperience,
-		'home-contact': HomeContact,
+		'contact-app': Contact,
 		'icon-arrowdown': IconArrowdown
 	},
 	methods: {

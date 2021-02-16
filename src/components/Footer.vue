@@ -3,7 +3,7 @@
 		<div class="container-fluid align-center">
 			<h5 class=" display-inline-block">2021 The Bowyer&nbsp;&nbsp;&nbsp;-</h5>
 			&nbsp;
-			<a class="link link-theme" href="https://www.linkedin.com/" target="_blank">
+			<a class="link link-theme" href="https://www.linkedin.com/in/gaelbbou/en" target="_blank">
 				<icon-linkedin class="icon icon-theme"></icon-linkedin>
 			</a>
 

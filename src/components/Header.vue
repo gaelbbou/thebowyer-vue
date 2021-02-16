@@ -68,21 +68,6 @@
 						</router-link>
 					</li>
 
-					<!-- menu language -->
-					<!-- <li class="display-laptop display-desktop">
-						<select
-							class="link"
-							v-bind:class="linkStyle"
-							v-on:change="eventLanguage($event)"
-							v-model="languageSite"
-						>
-							<option value="languageEng">ENG</option>
-							<option value="languageFra">FRA</option>
-							<option value="languageEsp">ESP</option>
-							<option value="languageChi">CHI</option>
-						</select>
-					</li>-->
-
 					<!-- menu theme -->
 					<li>
 						<button
