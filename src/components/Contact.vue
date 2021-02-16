@@ -11,7 +11,7 @@
 					>LinkedIn</a>, or send me an 
 					<a
 						class="link link-external"
-						href="mailto:gbouvyer@gmail.com"
+						href="mailto:webinspi@gmail.com"
 						target="_blank"
 					>email</a>.
 					 <!-- or using this <router-link to="/home#home-contact" class="link link-primary">contact form</router-link>. -->
