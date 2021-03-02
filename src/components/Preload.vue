@@ -3,10 +3,21 @@
 		<img
 			v-for="project in data.projects"
 			v-bind:key="project"
-			class="display-none"
 			loading="lazy"
+			width="1"
+			height="1"
+			border="0"
 			v-bind:src="project.hero"
 		/>
+		<!-- <img
+			v-for="project in data.projects"
+			v-bind:key="project"
+			loading="lazy"
+			width="1"
+			height="1"
+			border="0"
+			v-bind:src="project.hero"
+		/> -->
 	</div>
 </template>
 

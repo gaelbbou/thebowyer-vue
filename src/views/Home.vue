@@ -1,11 +1,12 @@
 <template>
 	<div id="home">
-		<!-- preload -->
+		<!-- preload hero-home -->
 		<img
 			class="display-none"
 			loading="eager"
 			v-bind:src="data.website.imgEarth"
 		/>
+		<!-- /preload hero-home -->
 
 		<!-- hero -->
 		<div

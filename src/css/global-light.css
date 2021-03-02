@@ -2165,11 +2165,6 @@ header .header-line {
 }
 
 @media (max-width: 999px) {
-  header {
-    right: 0;
-    bottom: 0;
-    left: 0;
-  }
   header #header-nav {
     text-align: center !important;
     float: none !important;
