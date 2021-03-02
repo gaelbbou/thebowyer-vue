@@ -1,21 +1,33 @@
 <template>
 	<div id="projects">
 		<!-- preload -->
-		<img class="display-none" loading="eager" v-bind:src="projectObj.hero" />
+		<img
+			class="display-none"
+			loading="eager"
+			v-bind:src="projectObj.hero"
+		/>
 
 		<!-- project-hero -->
-		<div id="projects-hero" v-bind:style="{ backgroundImage: 'url(' + projectObj.hero + ')' }">
+		<div
+			id="projects-hero"
+			v-bind:style="{ backgroundImage: 'url(' + projectObj.hero + ')' }"
+		>
 			<canvas class="overlay background-black"></canvas>
-			<div class="hero-title align-center setting-anim--fadeinup setting-anim--delayed">
+			<div
+				class="hero-title align-center setting-anim--fadeinup setting-anim--delayed"
+			>
 				<div class="container">
-					<h1 class="align-center color-white">{{ projectObj.title }}</h1>
+					<h1 class="align-center color-white">
+						{{ projectObj.title }}
+					</h1>
 					<p class="align-center color-white">
 						<a
 							v-if="Boolean(projectObj.url)"
 							class="link link-external"
 							v-bind:href="projectObj.url"
 							target="_blank"
-						>{{ projectObj.title }},&nbsp;</a>
+							>{{ projectObj.title }},&nbsp;</a
+						>
 						{{ projectObj.description }}
 					</p>
 					<div class="align-center">
@@ -23,7 +35,9 @@
 							class="button button-mini button-white--ghost button-tag"
 							v-for="tag in projectObj.tags"
 							v-bind:key="tag"
-						>{{ tag }}</button>
+						>
+							{{ tag }}
+						</button>
 					</div>
 				</div>
 			</div>
@@ -58,7 +72,11 @@
 					<p class="align-center">{{ projectObj.aSubtitle }}</p>
 					<br />
 					<ul class="align-center">
-						<li v-for="aWork in projectObj.aWorks" v-bind:key="aWork" v-bind:class="aWork.classType">
+						<li
+							v-for="aWork in projectObj.aWorks"
+							v-bind:key="aWork"
+							v-bind:class="aWork.classType"
+						>
 							<img
 								class="image-responsive setting-shadow--motion"
 								loading="lazy"
@@ -77,7 +95,11 @@
 					<p class="align-center">{{ projectObj.bSubtitle }}</p>
 					<br />
 					<ul class="align-center">
-						<li v-for="bWork in projectObj.bWorks" v-bind:key="bWork" v-bind:class="bWork.classType">
+						<li
+							v-for="bWork in projectObj.bWorks"
+							v-bind:key="bWork"
+							v-bind:class="bWork.classType"
+						>
 							<img
 								class="image-responsive setting-shadow--motion"
 								loading="lazy"
@@ -96,7 +118,11 @@
 					<p class="align-center">{{ projectObj.cSubtitle }}</p>
 					<br />
 					<ul class="align-center">
-						<li v-for="cWork in projectObj.cWorks" v-bind:key="cWork" v-bind:class="cWork.classType">
+						<li
+							v-for="cWork in projectObj.cWorks"
+							v-bind:key="cWork"
+							v-bind:class="cWork.classType"
+						>
 							<img
 								class="image-responsive setting-shadow--motion"
 								loading="lazy"
@@ -115,7 +141,11 @@
 					<p class="align-center">{{ projectObj.dSubtitle }}</p>
 					<br />
 					<ul class="align-center">
-						<li v-for="dWork in projectObj.dWorks" v-bind:key="dWork" v-bind:class="dWork.classType">
+						<li
+							v-for="dWork in projectObj.dWorks"
+							v-bind:key="dWork"
+							v-bind:class="dWork.classType"
+						>
 							<img
 								class="image-responsive setting-shadow--motion"
 								loading="lazy"
@@ -129,17 +159,25 @@
 				</div>
 			</div>
 			<!-- /project-work -->
-			<br><br><br>
+			<br /><br /><br />
 		</div>
 
 		<!-- special v-if -->
 		<!-- delay load -->
-		<img class="display-none" loading="lazy" v-bind:src="projectObj.special" />
+		<img
+			loading="lazy"
+			width="1"
+			height="1"
+			border="0"
+			v-bind:src="projectObj.special"
+		/>
 		<div
 			id="projects-special"
 			class="section"
 			v-if="Boolean(projectObj.special)"
-			v-bind:style="{ backgroundImage: 'url(' + projectObj.special + ')' }"
+			v-bind:style="{
+				backgroundImage: 'url(' + projectObj.special + ')',
+			}"
 		></div>
 		<!-- /special v-if -->
 

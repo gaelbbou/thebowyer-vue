@@ -3,7 +3,7 @@
 		<img
 			v-for="project in data.projects"
 			v-bind:key="project"
-			loading="lazy"
+			loading="eager"
 			width="1"
 			height="1"
 			border="0"
@@ -12,7 +12,7 @@
 		<!-- <img
 			v-for="project in data.projects"
 			v-bind:key="project"
-			loading="lazy"
+			loading="eager"
 			width="1"
 			height="1"
 			border="0"
