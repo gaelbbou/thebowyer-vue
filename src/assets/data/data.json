@@ -223,7 +223,7 @@
 					"chi": "助理艺术总监"
 				},
 				"date": "2006 to 2009 - Paris, France & Dakar, Senegal",
-				"company": "Advertising agencies",
+				"company": "Advertising School, ",
 				"url": "",
 				"description": {
 					"eng": " (DDB, TBWA, McCann).",
@@ -232,6 +232,38 @@
 					"chi": " 广告公司，如DDB，TBWA，McCann。"
 				},
 				"tasks": [],
+				"tags": []
+			},
+			{
+				"classSide": "timeline-card--right",
+				"title": {
+					"eng": "Education",
+					"fra": "Études",
+					"esp": "Educación",
+					"chi": "教育"
+				},
+				"date": "2003 to 2009 - Paris, France",
+				"company": "",
+				"url": "",
+				"description": "",
+				"tasks": {
+					"eng": [
+						"• Scientific training",
+						"• Advertising school"
+					],
+					"fra": [
+						"• Formation scientifique",
+						"• Ecole de publicité"
+					],
+					"esp": [
+						"• Entrenamiento cientifico",
+						"• Escuela de publicidad"
+					],
+					"chi": [
+						"• 科学训练",
+						"• 广告学校"
+					]
+				},
 				"tags": []
 			}
 		]
